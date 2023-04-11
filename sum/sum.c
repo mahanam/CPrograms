@@ -21,3 +21,12 @@ int main()
     // exit from the main
     return 0;
 }
+
+
+/*
+ * Output:
+ * -------
+ * Enter the num1: 12
+ * Enter the num2: 23
+ * Result of 2 given numbers is 35
+ * /
