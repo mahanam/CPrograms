@@ -16,7 +16,8 @@ int main()
     i4SumResult = i4Num1 + i4Num2;
 
     // Printing the sum output
-    printf("Result of 2 given numbers is %d\n", i4SumResult);
+    //printf("Result of 2 given numbers is %d\n", i4SumResult);
+    printf("Result of %d and %d numbers is %d\n", i4Num1, i4Num2, i4SumResult);
 
     // exit from the main
     return 0;
@@ -26,7 +27,7 @@ int main()
 /*
  * Output:
  * -------
- * Enter the num1: 12
- * Enter the num2: 23
- * Result of 2 given numbers is 35
- * /
+ * Enter the num1:12
+ * Enter the num2:24
+ * Result of 12 and 24 numbers is 36
+ * */
